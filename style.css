@@ -1,0 +1,86 @@
+#container {
+    position:absolute;
+    height:30px;
+    width:100%;
+    background-color:aquamarine;
+    display:block;
+    top:15px;
+    left:0px;
+}
+
+#A {
+    background-color:antiquewhite;
+    min-width:288px;
+    height:30px;
+    float:right;
+    position:relative;
+    text-align:right;
+    padding-left:30px;
+    padding-right:15px;
+    font-family: arial;
+    font-size:13px;
+    align-items:center;
+}
+
+#B{
+    background-color:chartreuse;
+    padding-right:15px;
+    width:153px;
+    height:30px;
+    float:left;
+    position:relative;
+    text-align:right;
+    position:relative;
+    margin-left:-30px;
+}
+
+#C{
+    background-color:darkgrey;
+    width:60px;
+    height:30px;
+    text-align:right;
+    
+    vertical-align:bottom;
+}
+
+#google{
+    height:231px;
+    margin-top:45px;
+    text-align: center;
+    display:block;
+}
+
+#slika{
+    padding-top:112px;
+    height: 92px;
+    width:271px;
+}
+
+#logo{
+    position:relative;
+    font-size:16px;
+    top:-20px;
+    left:110;
+    color:#4285f4;
+    font:small Arial;
+    font-size:16px;
+    display:block;
+    text-align:center;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+
+
+
+
+
